@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: restaurant
+  elasticsearch:
+    uris: http://localhost:9200
